@@ -2,7 +2,7 @@
 
 > Everything you need to get started with a decentralized react & redux application you can run on dWeb (https://pact.online)
 
-The intend of this project is to get your development started as fast as possible. If you prefer to take an in depth look, what the core principles behind it are, check out the [medium post](https://blog.florence.chat/tutorial-how-to-build-a-completely-free-dapp-11a4ddf5959c). Please notice that the tutorial does not explicitly cover the react implementation, but a general approach.
+The intend of this project is to get your development started as fast as possible. If you prefer to take an in depth look what the core principles behind it are, check out the [medium post](https://blog.florence.chat/tutorial-how-to-build-a-completely-free-dapp-11a4ddf5959c). Please notice that the medium post does not explicitly cover the react implementation, but a general approach.
 
 # Local Development
 The template is using the webpack development server for local development. If you are familiar with react and redux, your development flow will be the same as with standard applications.

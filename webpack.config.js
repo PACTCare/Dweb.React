@@ -29,7 +29,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'Glucose Monitor',
+      title: 'Dweb.page React & Redux Template',
       minify: minifySettings,
       template: "./public/index.html",
       filename: "./index.html",
